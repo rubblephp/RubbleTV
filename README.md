@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Discord
 
-<p align="center">
-<a href="https://github.com/RubbleTV">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RubbleTV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-</a>
-</p>
+<div align="center">
+<a href="https://discord.com/users/803642468025106472"><img src="https://lanyard-profile-readme.vercel.app/api/803642468025106472?borderRadius=25px&bg=#282a36" /></a>
+</div
