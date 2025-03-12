@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-### ⚙️ &nbsp;Discord
-
+### &nbsp;Discord
+</h1>
 <div align="center">
 <a href="https://discord.com/users/803642468025106472"><img src="https://lanyard-profile-readme.vercel.app/api/803642468025106472?borderRadius=25px&bg=#282a36" /></a>
 </div
